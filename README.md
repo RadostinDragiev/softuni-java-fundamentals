@@ -5,3 +5,5 @@
 3. Arrays
 4. Methods
 5. Lists
+6. Object and classes
+7. Associative Arrays
