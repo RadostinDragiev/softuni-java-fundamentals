@@ -7,3 +7,4 @@
 5. Lists
 6. Object and classes
 7. Associative Arrays
+8. Text processing
